@@ -19,7 +19,6 @@
 		8E870D4A1E52F13C004FDB5B /* ControllerTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E870D391E52F13C004FDB5B /* ControllerTool.m */; };
 		8E870D4B1E52F13C004FDB5B /* DeviceTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E870D3B1E52F13C004FDB5B /* DeviceTool.m */; };
 		8E870D4C1E52F13C004FDB5B /* HandleURLTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E870D3D1E52F13C004FDB5B /* HandleURLTool.m */; };
-		8E870D4E1E52F13C004FDB5B /* NetWorkTool.mm in Sources */ = {isa = PBXBuildFile; fileRef = 8E870D411E52F13C004FDB5B /* NetWorkTool.mm */; };
 		8E870D4F1E52F13C004FDB5B /* NSObject+JsonModelTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E870D431E52F13C004FDB5B /* NSObject+JsonModelTool.m */; };
 		8E870D501E52F13C004FDB5B /* ProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E870D451E52F13C004FDB5B /* ProgressHUD.m */; };
 		8E870D511E52F13C004FDB5B /* ValidateTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E870D471E52F13C004FDB5B /* ValidateTool.m */; };
@@ -70,8 +69,6 @@
 		8E870D3B1E52F13C004FDB5B /* DeviceTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DeviceTool.m; sourceTree = "<group>"; };
 		8E870D3C1E52F13C004FDB5B /* HandleURLTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HandleURLTool.h; sourceTree = "<group>"; };
 		8E870D3D1E52F13C004FDB5B /* HandleURLTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HandleURLTool.m; sourceTree = "<group>"; };
-		8E870D401E52F13C004FDB5B /* NetWorkTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetWorkTool.h; sourceTree = "<group>"; };
-		8E870D411E52F13C004FDB5B /* NetWorkTool.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = NetWorkTool.mm; sourceTree = "<group>"; };
 		8E870D421E52F13C004FDB5B /* NSObject+JsonModelTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+JsonModelTool.h"; sourceTree = "<group>"; };
 		8E870D431E52F13C004FDB5B /* NSObject+JsonModelTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+JsonModelTool.m"; sourceTree = "<group>"; };
 		8E870D441E52F13C004FDB5B /* ProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProgressHUD.h; sourceTree = "<group>"; };
@@ -201,8 +198,6 @@
 				8E870D3B1E52F13C004FDB5B /* DeviceTool.m */,
 				8E870D3C1E52F13C004FDB5B /* HandleURLTool.h */,
 				8E870D3D1E52F13C004FDB5B /* HandleURLTool.m */,
-				8E870D401E52F13C004FDB5B /* NetWorkTool.h */,
-				8E870D411E52F13C004FDB5B /* NetWorkTool.mm */,
 				8E870D421E52F13C004FDB5B /* NSObject+JsonModelTool.h */,
 				8E870D431E52F13C004FDB5B /* NSObject+JsonModelTool.m */,
 				8E870D441E52F13C004FDB5B /* ProgressHUD.h */,
@@ -404,7 +399,6 @@
 			files = (
 				8E870D091E52EFB8004FDB5B /* ViewController.m in Sources */,
 				8E870D061E52EFB8004FDB5B /* AppDelegate.m in Sources */,
-				8E870D4E1E52F13C004FDB5B /* NetWorkTool.mm in Sources */,
 				8E870D4F1E52F13C004FDB5B /* NSObject+JsonModelTool.m in Sources */,
 				8E870D521E52F13C004FDB5B /* WebCacheTool.m in Sources */,
 				8E870D031E52EFB8004FDB5B /* main.m in Sources */,

@@ -8,6 +8,5 @@ target 'Tools' do
   # Uncomment this line if you're using Swift or would like to use dynamic frameworks
   # use_frameworks!
 pod 'MBProgressHUD'
-pod 'AFNetworking’
 pod 'YYModel'
 end
